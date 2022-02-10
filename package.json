@@ -14,7 +14,7 @@
     "core-js": "^3.6.4",
     "keen-ui": "^1.2.1",
     "lodash": "^4.17.15",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "regexp-tree": "^0.1.21",
     "sass-loader": "^8.0.2",
